@@ -13,7 +13,8 @@ Descripción del Problema:
 
 
 
-Tablas:
+TABLAS:
+
 CLIENTE:
 Almacena información sobre los clientes que realizan reservas.
 Atributos: IDCLIENTE, NOMBRE, TELÉFONO, CORREO
